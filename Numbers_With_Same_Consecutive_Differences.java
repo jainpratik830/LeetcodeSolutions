@@ -29,7 +29,8 @@ public class Numbers_With_Same_Consecutive_Differences {
         }
 
         curr.stream().mapToInt(j->j).toArray();
-
+        String a="  ";
+//        Character.toLowerCase()
         System.out.println(curr);
 
     }
